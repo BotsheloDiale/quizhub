@@ -1,0 +1,108 @@
+{
+    "formHeading": "1 minute of JavaScript",
+    "formTitle": "short JavaScript based quiz",
+    "formDescription": "from the below questions, answer all by selecting a single correct answer. Once you're satsfied with your answeres, submit the form. All uestions are manditory.",
+    "fields": [
+        {
+            "id": "q_001",
+            "value": null,
+            "question": "What was JavaScript first know as ?",
+            "options": [
+                "HTML Script",
+                "NetScape",
+                "client-side script",
+                "LiveScript"
+            ]
+        },
+        {
+            "id": "q_002",
+            "value": null,
+            "question": "Do scripts have to be included in or referenced by an HTML document for the code to be interpreted by the browser ?",
+            "options": [
+                {
+                    "displayName": "Yes",
+                    "value": true
+                },
+                {
+                    "displayName": "No",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "id": "q_003",
+            "value": null,
+            "question": "Select all correct JavaScript advantages",
+            "options": [
+                {
+                    "displayName": "More server interaction",
+                    "value": "LSI"
+                },
+                {
+                    "displayName": "Immediate feedback to site visitors",
+                    "value": "IFSV"
+                },
+                {
+                    "displayName": "Deccreased interactivity",
+                    "value": "II"
+                },
+                {
+                    "displayName": "Less richer interfaces",
+                    "value": "RI"
+                }
+            ]
+        },
+        {
+            "id": "q_004",
+            "value": null,
+            "question": "The script tag takes two important attributes −",
+            "options": [
+                "Language and Type",
+                "Value and Type",
+                "Language and Value",
+                "None of the above"
+            ]
+        },
+        {
+            "id": "q_005",
+            "value": null,
+            "question": "Can 'Const' variables be reassigned and are they accessible before they appear within the code.",
+            "options": [
+                {
+                    "displayName": "Yes, they are accessible and reasignable.",
+                    "value": true
+                },
+                {
+                    "displayName": "No, they are not accessible before they appear and are not reasignable",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "id": "q_006",
+            "value": null,
+            "question": "The Pop( ) function removes the last element of the array.",
+            "type": "multi-select",
+            "options": [
+                {
+                    "displayName": "Yes, that is true.",
+                    "value": true
+                },
+                {
+                    "displayName": "No, that is not true",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "id": "q_007",
+            "question": "The script tag takes two important attributes −",
+            "options": [
+                "Language and Type",
+                "Value and Type",
+                "Language and Value",
+                "None of the above"
+            ]
+        }
+    ]
+}
